@@ -1,0 +1,3 @@
+name = "cloudflare-worker-vite-demo"
+main = "src/index.ts"
+compatibility_date = "2023-03-18"
