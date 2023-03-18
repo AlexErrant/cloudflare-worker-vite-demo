@@ -1,6 +1,7 @@
 {
   "name": "cloudflare-worker-vite-demo",
   "version": "0.0.0",
+  "type": "module",
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230307.0",
     "esbuild": "^0.17.12",
