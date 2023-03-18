@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230307.0",
+    "esbuild": "^0.17.12",
     "typescript": "^5.0.2",
+    "vite": "^4.2.0",
+    "vite-plugin-cloudflare": "^0.3.1",
     "wrangler": "2.6.2"
   },
   "private": true,
